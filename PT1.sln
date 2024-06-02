@@ -7,9 +7,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Minh", "Minh", "{E11EB484-A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Viet", "Viet", "{D1E9C97F-E11F-4F69-BB0B-50B8F24ACD80}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nam", "Nam", "{E2FC964B-05E6-4AB3-9614-C101DCB17EF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicFormatData", "BasicFormatData\BasicFormatData.csproj", "{667613DB-5578-472E-8C8A-CB8C9040A0EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedFormatData", "AdvancedFormatData\AdvancedFormatData.csproj", "{0C10665F-D005-4EB7-8E54-04F769E0C048}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667613DB-5578-472E-8C8A-CB8C9040A0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667613DB-5578-472E-8C8A-CB8C9040A0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667613DB-5578-472E-8C8A-CB8C9040A0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667613DB-5578-472E-8C8A-CB8C9040A0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C10665F-D005-4EB7-8E54-04F769E0C048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C10665F-D005-4EB7-8E54-04F769E0C048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C10665F-D005-4EB7-8E54-04F769E0C048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C10665F-D005-4EB7-8E54-04F769E0C048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{667613DB-5578-472E-8C8A-CB8C9040A0EE} = {E2FC964B-05E6-4AB3-9614-C101DCB17EF3}
+		{0C10665F-D005-4EB7-8E54-04F769E0C048} = {E2FC964B-05E6-4AB3-9614-C101DCB17EF3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C12B238-A4CD-4213-9D96-8AE86818E9F5}
