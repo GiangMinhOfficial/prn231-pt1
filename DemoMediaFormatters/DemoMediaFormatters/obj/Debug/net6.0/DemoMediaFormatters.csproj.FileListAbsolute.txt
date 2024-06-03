@@ -1,0 +1,221 @@
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/appsettings.Development.json
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/appsettings.json
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.exe
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.deps.json
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.runtimeconfig.json
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.pdb
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Microsoft.OpenApi.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.csproj.AssemblyReference.cache
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.GeneratedMSBuildEditorConfig.editorconfig
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.AssemblyInfoInputs.cache
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.AssemblyInfo.cs
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.csproj.CoreCompileInputs.cache
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cs
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cache
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.DemoMediaFormatters.Microsoft.AspNetCore.StaticWebAssets.props
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.build.DemoMediaFormatters.props
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DemoMediaFormatters.props
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DemoMediaFormatters.props
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets.pack.json
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets.build.json
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets.development.json
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/scopedcss/bundle/DemoMediaFormatters.styles.css
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.csproj.CopyComplete
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/refint/DemoMediaFormatters.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.pdb
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.genruntimeconfig.cache
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/ref/DemoMediaFormatters.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Newtonsoft.Json.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+D:/.Net Project/API Net Core/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/System.Web.Http.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/appsettings.Development.json
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/appsettings.json
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.deps.json
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.runtimeconfig.json
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.pdb
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/System.Web.Http.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.csproj.AssemblyReference.cache
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.AssemblyInfoInputs.cache
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.AssemblyInfo.cs
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.csproj.CoreCompileInputs.cache
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cs
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cache
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.DemoMediaFormatters.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.build.DemoMediaFormatters.props
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DemoMediaFormatters.props
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DemoMediaFormatters.props
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets.build.json
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets.development.json
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/scopedcss/bundle/DemoMediaFormatters.styles.css
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.csproj.CopyComplete
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/refint/DemoMediaFormatters.dll
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.pdb
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.genruntimeconfig.cache
+/Users/lephu/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/ref/DemoMediaFormatters.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/appsettings.Development.json
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/appsettings.json
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.deps.json
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.runtimeconfig.json
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/DemoMediaFormatters.pdb
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/System.Web.Http.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.csproj.AssemblyReference.cache
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.AssemblyInfoInputs.cache
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.AssemblyInfo.cs
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.csproj.CoreCompileInputs.cache
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cs
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cache
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.DemoMediaFormatters.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.build.DemoMediaFormatters.props
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.DemoMediaFormatters.props
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.DemoMediaFormatters.props
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets.build.json
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/staticwebassets.development.json
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/scopedcss/bundle/DemoMediaFormatters.styles.css
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.csproj.CopyComplete
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/refint/DemoMediaFormatters.dll
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.pdb
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/DemoMediaFormatters.genruntimeconfig.cache
+/Users/lephu/Teaching/CodeDemo/PRN231/DemoMediaFormatters/DemoMediaFormatters/obj/Debug/net6.0/ref/DemoMediaFormatters.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\appsettings.Development.json
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\appsettings.json
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.exe
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.deps.json
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.runtimeconfig.json
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.pdb
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\System.Web.Http.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Newtonsoft.Json.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.AssemblyReference.cache
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.AssemblyInfoInputs.cache
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.AssemblyInfo.cs
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.CoreCompileInputs.cache
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cs
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cache
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.DemoMediaFormatters.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoMediaFormatters.props
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoMediaFormatters.props
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoMediaFormatters.props
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.pack.json
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\scopedcss\bundle\DemoMediaFormatters.styles.css
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.CopyComplete
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\refint\DemoMediaFormatters.dll
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.pdb
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.genruntimeconfig.cache
+Y:\Teaching\CodeDemo\PRN231\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\ref\DemoMediaFormatters.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\appsettings.json
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.exe
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.deps.json
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.runtimeconfig.json
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.pdb
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.AssemblyReference.cache
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.AssemblyInfoInputs.cache
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.AssemblyInfo.cs
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.CoreCompileInputs.cache
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.DemoMediaFormatters.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoMediaFormatters.props
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoMediaFormatters.props
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoMediaFormatters.props
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\scopedcss\bundle\DemoMediaFormatters.styles.css
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.CopyComplete
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\refint\DemoMediaFormatters.dll
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.pdb
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.genruntimeconfig.cache
+C:\Users\fpt\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\ref\DemoMediaFormatters.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.AssemblyReference.cache
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.AssemblyInfoInputs.cache
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.AssemblyInfo.cs
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.CoreCompileInputs.cache
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\refint\DemoMediaFormatters.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.pdb
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\appsettings.json
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.exe
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.deps.json
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.runtimeconfig.json
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.pdb
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.DemoMediaFormatters.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoMediaFormatters.props
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoMediaFormatters.props
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoMediaFormatters.props
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\scopedcss\bundle\DemoMediaFormatters.styles.css
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.CopyComplete
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.genruntimeconfig.cache
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\ref\DemoMediaFormatters.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\WebApiContrib.Core.Formatter.Bson.dll
