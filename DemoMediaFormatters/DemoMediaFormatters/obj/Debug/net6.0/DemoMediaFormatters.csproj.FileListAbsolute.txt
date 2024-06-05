@@ -219,3 +219,45 @@ C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMed
 C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\wth0z\Downloads\DemoMediaFormatters (2)\DemoMediaFormatters (2)\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\WebApiContrib.Core.Formatter.Bson.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\appsettings.Development.json
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\appsettings.json
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.exe
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.deps.json
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.runtimeconfig.json
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\DemoMediaFormatters.pdb
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\System.Web.Http.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\bin\Debug\net6.0\WebApiContrib.Core.Formatter.Bson.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.AssemblyReference.cache
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.AssemblyInfoInputs.cache
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.AssemblyInfo.cs
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.csproj.CoreCompileInputs.cache
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cs
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.sourcelink.json
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.build.json
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.development.json
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.DemoMediaFormatters.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.build.DemoMediaFormatters.props
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DemoMediaFormatters.props
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DemoMediaFormatters.props
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\staticwebassets.pack.json
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\scopedcss\bundle\DemoMediaFormatters.styles.css
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMedi.1FE9F237.Up2Date
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\refint\DemoMediaFormatters.dll
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.pdb
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\DemoMediaFormatters.genruntimeconfig.cache
+D:\FPT_University\2024_SUMMER\2_PRN231\Coding\PT1\DemoMediaFormatters\DemoMediaFormatters\obj\Debug\net6.0\ref\DemoMediaFormatters.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ky7\\PRN231\\code\\prn231-pt1\\DemoMediaFormatters\\DemoMediaFormatters\\DemoMediaFormatters.csproj": {}
+    "D:\\FPT_University\\2024_SUMMER\\2_PRN231\\Coding\\PT1\\DemoMediaFormatters\\DemoMediaFormatters\\DemoMediaFormatters.csproj": {}
   },
   "projects": {
-    "D:\\ky7\\PRN231\\code\\prn231-pt1\\DemoMediaFormatters\\DemoMediaFormatters\\DemoMediaFormatters.csproj": {
+    "D:\\FPT_University\\2024_SUMMER\\2_PRN231\\Coding\\PT1\\DemoMediaFormatters\\DemoMediaFormatters\\DemoMediaFormatters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ky7\\PRN231\\code\\prn231-pt1\\DemoMediaFormatters\\DemoMediaFormatters\\DemoMediaFormatters.csproj",
+        "projectUniqueName": "D:\\FPT_University\\2024_SUMMER\\2_PRN231\\Coding\\PT1\\DemoMediaFormatters\\DemoMediaFormatters\\DemoMediaFormatters.csproj",
         "projectName": "DemoMediaFormatters",
-        "projectPath": "D:\\ky7\\PRN231\\code\\prn231-pt1\\DemoMediaFormatters\\DemoMediaFormatters\\DemoMediaFormatters.csproj",
-        "packagesPath": "C:\\Users\\wth0z\\.nuget\\packages\\",
-        "outputPath": "D:\\ky7\\PRN231\\code\\prn231-pt1\\DemoMediaFormatters\\DemoMediaFormatters\\obj\\",
+        "projectPath": "D:\\FPT_University\\2024_SUMMER\\2_PRN231\\Coding\\PT1\\DemoMediaFormatters\\DemoMediaFormatters\\DemoMediaFormatters.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_University\\2024_SUMMER\\2_PRN231\\Coding\\PT1\\DemoMediaFormatters\\DemoMediaFormatters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wth0z\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -84,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

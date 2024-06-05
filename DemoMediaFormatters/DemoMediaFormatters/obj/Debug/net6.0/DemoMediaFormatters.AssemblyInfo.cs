@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoMediaFormatters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05cbe64bdd11df5ff3b0c7f3dc8398b5cc8ae9b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoMediaFormatters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoMediaFormatters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
